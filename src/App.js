@@ -3,9 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 import { Login } from './components/login';
 
-function App() {
+function App () {
 	return (
-		<div className="App">
+		<div className='App'>
 			<Login />
 		</div>
 	);
